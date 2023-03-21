@@ -9,10 +9,15 @@ About me:
 💼 - Currently working as Fullstack Developer & IT Researcher at the University of Seville.
 
 Technologies I master or have worked with:
+
 ✔ I master mainly Python as a programming language but I have also worked with JavaScript and java.
+
 ✔ I have worked with different software development frameworks such as Spring, Django or FastAPI for backend, and Angular or React for frontend.
+
 ✔ I master technologies related to databases both relational (SLQ) and non-relational (MongoDB).
+
 ✔ I master virtualization systems or containers such as Docker.
+
 ✔ I have always liked working on Linux based systems.
 
 Contact:
