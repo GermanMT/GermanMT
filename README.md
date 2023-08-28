@@ -29,7 +29,10 @@
 
 ---
 
-About me:
+<div align="center">
+  <b>:man_technologist: About me:</b>
+  <br></br>
+</div>
 
 📖 - I consider myself a lover of computer engineering, software and new technologies. One of my favorite hobbies is to learn as much as possible about this world, eager to face new challenges and problems.
 
@@ -39,7 +42,12 @@ About me:
 
 💼 - Currently working as Fullstack Developer & IT Researcher at the University of Seville.
 
-Technologies I master or have worked with:
+---
+
+<div align="center">
+  :hammer_and_wrench: <b>Technologies I master or have worked with:</b>
+  <br></br>
+</div>
 
 ✔ I master mainly Python as a programming language but I have also worked with JavaScript and java.
 
