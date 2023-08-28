@@ -16,6 +16,19 @@
 
 ---
 
+<div align="center">
+  :fire: <b>My Stats:</b>
+  <br></br>
+
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GermanMT&theme=dark)
+
+  ![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanMT&show_icons=true&theme=dark)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMT&layout=compact&theme=dark)
+</div>
+
+---
+
 About me:
 
 📖 - I consider myself a lover of computer engineering, software and new technologies. One of my favorite hobbies is to learn as much as possible about this world, eager to face new challenges and problems.
