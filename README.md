@@ -1,4 +1,7 @@
 <div align="center">
+  📞<b>Contact:</b>
+  <br></br>
+  
   <a href="https://www.linkedin.com/in/antonio-germ%C3%A1n-m%C3%A1rquez-trujillo-0aaa63215">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -58,6 +61,3 @@
 ✔ I master virtualization systems or containers such as Docker.
 
 ✔ I have always liked working on Linux based systems.
-
-Contact:
-📞 Gmail: germanoctako@gmail.com
