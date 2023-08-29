@@ -8,6 +8,9 @@
   <a href="mailto:germanoctako@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://t.me/German1998x">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 </div>
 
 <div align="center">
