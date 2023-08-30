@@ -25,9 +25,9 @@
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GermanMT&theme=dark)
 
-  ![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=GermanMT&show_icons=true&theme=dark)
+  ![German's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GermanMT&show_icons=true&theme=dark)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMT&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GermanMT&layout=compact&theme=dark)
 </div>
 
 ---
