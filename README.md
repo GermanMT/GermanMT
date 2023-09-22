@@ -23,7 +23,7 @@
   :fire: <b>My Stats:</b>
   <br></br>
 
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=GermanMT)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GermanMT&theme=dark)
 
   ![German's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GermanMT&show_icons=true&theme=dark)
 
