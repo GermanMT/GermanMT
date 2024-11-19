@@ -54,7 +54,7 @@
 
 <div align="center">
   <h4>Vulnerability impact analysis in software project dependencies based on Satisfiability Modulo Theories (SMT) (2023)</h4>
-  <a href="https://doi.org/10.1016/j.cose.2023.103669" title="SCImago Journal &amp; Country Rank"><img border="1" src="https://www.scimagojr.com/journal_img.php?id=28898" alt="SCImago Journal &amp; Country Rank"  /></a>
+  <a href="https://doi.org/10.1016/j.cose.2023.103669" title="SCImago Journal &amp; Country Rank"><img border="1" src="https://www.scimagojr.com/journal_img.php?id=28898" alt="Click to see the paper"  /></a>
 </div>
 
 ---
