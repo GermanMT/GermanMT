@@ -51,11 +51,17 @@
 </div>
 
 <div align="center">
-  <h4>Vulnerability impact analysis in software project dependencies based on Satisfiability Modulo Theories (SMT) (2024)</h4>
-  <a href="https://doi.org/10.1016/j.cose.2023.103669" title="Click to see the paper"><img border="1" src="https://www.scimagojr.com/journal_img.php?id=28898" alt="Click to see the paper"  /></a>
+  <h4>Vulnerability impact analysis in software project dependencies based on Satisfiability Modulo Theories (SMT) (2024) </h4>
   <p> Computers & Security, volume 139, April 2024, 103669 </p>
-  <p> SJR: Q1 - JCR: Q1</p>
+  <p> SJR: Q1 - JCR: Q1 </p>
   <p> DOI: https://doi.org/10.1016/j.cose.2023.103669 </p>
+</div>
+
+<div align="center">
+  <h4>Depex: A software for analysing and reasoning about vulnerabilities in software projects dependencies (2025) </h4>
+  <p> SoftwareX, volume 30, May 2025, 102152 </p>
+  <p> SJR: Q3 - JCR: Q2 </p>
+  <p> DOI: https://doi.org/10.1016/j.softx.2025.102152 </p>
 </div>
 
 ---
