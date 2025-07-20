@@ -46,7 +46,7 @@
 ---
 
 <div align="center">
-  :page_with_curl: <b>Papers I have publlished as first author:</b>
+  :page_with_curl: <b>Papers I have publlished:</b>
   <br></br>
 </div>
 
