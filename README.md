@@ -73,7 +73,7 @@
 
 > <div align="center">
 >   <h4> A dataset on vulnerabilities affecting dependencies in software package managers (2025) </h4>
->   <p> Data in Brief, volume XX, Jul 2025, 111903 </p>
+>   <p> Data in Brief, volume 62, Jul 2025, 111903 </p>
 >   <p> SJR: Q3 - JCR: Q3 </p>
 >   <p> DOI: https://doi.org/10.1016/j.dib.2025.111903 </p>
 > </div>
