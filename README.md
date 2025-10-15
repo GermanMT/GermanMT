@@ -11,6 +11,9 @@
   <a href="https://t.me/German1998x">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://scholar.google.es/citations?hl=es&user=Lv7HBqMAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
 </div>
 
 <div align="center">
