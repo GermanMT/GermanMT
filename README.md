@@ -49,6 +49,18 @@
 ---
 
 <div align="center">
+  :page_with_curl: <b>My doctoral thesis:</b>
+  <br></br>
+</div>
+
+> <div align="center">
+>   <h4> Advanced Techniques for Enhancing Security in the Software Supply Chain </h4>
+>   <p> URI (Handle): https://hdl.handle.net/11441/177708 </p>
+> </div>
+
+---
+
+<div align="center">
   :page_with_curl: <b>Papers I have publlished:</b>
   <br></br>
 </div>
