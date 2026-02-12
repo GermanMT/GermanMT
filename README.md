@@ -38,13 +38,7 @@
   <br></br>
 </div>
 
-📖 - I consider myself a lover of computer engineering, software and new technologies. One of my favorite hobbies is to learn as much as possible about this world, eager to face new challenges and problems.
-
-🎯 - My goals are to continue learning as much as possible acquiring experience in new technologies related to software engineering.
-
-🎓 - Currently graduated from the University of Seville in the Degree in Computer Engineering - Software Engineering. And the Master in Software Engineering: Cloud, Data and IT Management.
-
-💼 - Currently working as Fullstack Developer & IT Researcher at the University of Seville.
+PhD in Computer Engineering with strong experience in software development and cybersecurity. Specialized in software supply chain security, combining academic research and practical engineering to address risks in dependencies, build systems, and deployment pipelines. Passionate about building secure software from the ground up. I am the creator and maintainer of [Secure Chain](https://securechain.dev/) open source organisation, with the scope of enhancing Software Supply Chain security.
 
 ---
 
