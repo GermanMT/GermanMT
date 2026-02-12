@@ -1,23 +1,23 @@
 <div align="center">
   📞<b>Contact:</b>
-  <br></br>
-  
+  <p></p>
   <a href="https://www.linkedin.com/in/antonio-germ%C3%A1n-m%C3%A1rquez-trujillo-0aaa63215">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <p></p>
   <a href="mailto:germanoctako@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <p></p>
   <a href="https://t.me/German1998x">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <p></p>
   <a href="https://scholar.google.es/citations?hl=es&user=Lv7HBqMAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
-</div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=GermanMT&style=flat-square&color=blue" alt=""/>
+  <p></p>
+  <img src="https://komarev.com/ghpvc/?username=GermanMT&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
